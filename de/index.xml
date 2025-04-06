@@ -2,16 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PublicBike</title>
-    <link>https://publicbikeapp.github.io/de/</link>
+    <link>http://localhost:1313/de/</link>
     <description>Recent content on PublicBike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="https://publicbikeapp.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/de/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/privacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy-for-bikeapp&#34;&gt;Privacy Policy for BikeApp&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; April 6, 2025&lt;/p&gt;
+&lt;p&gt;BikeApp is a smartwatch application developed for &lt;strong&gt;Wear OS&lt;/strong&gt; and &lt;strong&gt;Garmin Connect IQ&lt;/strong&gt;. We are committed to protecting your privacy and ensuring a safe user experience.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-data-collection&#34;&gt;1. Data Collection&lt;/h2&gt;
+&lt;p&gt;BikeApp does &lt;strong&gt;not&lt;/strong&gt; collect any personal data such as name, email address, or location.&lt;/p&gt;
+&lt;p&gt;The only data we collect is the &lt;strong&gt;device ID&lt;/strong&gt;, which is used &lt;strong&gt;solely for payment processing via PayPal&lt;/strong&gt;.&lt;br&gt;
+We do &lt;strong&gt;not&lt;/strong&gt; create user accounts or store any additional user-related information.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="privacy-policy-for-bikeapp">Privacy Policy for BikeApp</h1>
+<p><strong>Effective date:</strong> April 6, 2025</p>
+<p>BikeApp is a smartwatch application developed for <strong>Wear OS</strong> and <strong>Garmin Connect IQ</strong>. We are committed to protecting your privacy and ensuring a safe user experience.</p>
+<hr>
+<h2 id="1-data-collection">1. Data Collection</h2>
+<p>BikeApp does <strong>not</strong> collect any personal data such as name, email address, or location.</p>
+<p>The only data we collect is the <strong>device ID</strong>, which is used <strong>solely for payment processing via PayPal</strong>.<br>
+We do <strong>not</strong> create user accounts or store any additional user-related information.</p>
+<hr>
+<h2 id="2-payments">2. Payments</h2>
+<p>Payments within BikeApp are processed via <strong>PayPal</strong>.<br>
+All payment operations are handled securely by PayPal in accordance with their privacy policy.<br>
+BikeApp does <strong>not</strong> store any credit card details or PayPal login credentials.</p>
+<hr>
+<h2 id="3-third-party-services">3. Third-Party Services</h2>
+<p>Other than PayPal for payment processing, the app does <strong>not</strong> use any third-party services, analytics, or advertisements.</p>
+<hr>
+<h2 id="4-data-security">4. Data Security</h2>
+<p>We take your privacy seriously. The device ID we collect is not shared with third parties and is only used to confirm payment transactions.</p>
+<hr>
+<h2 id="5-disclaimer">5. Disclaimer</h2>
+<p>BikeApp is provided <strong>&ldquo;as is&rdquo;</strong>, without warranties of any kind.<br>
+We do <strong>not guarantee</strong> that the app will be free of errors or that it will function without interruptions.<br>
+We are <strong>not responsible</strong> for any loss, damage, or inconvenience caused by the use of the app, including but not limited to app malfunctions or service unavailability.</p>
+<hr>
+<h2 id="6-changes-to-this-policy">6. Changes to This Policy</h2>
+<p>We may update this privacy policy from time to time.<br>
+The latest version will always be available at:<br>
+🔗 <a href="https://publicbikeapp.github.io/">https://publicbikeapp.github.io/</a></p>
+<hr>
+<h2 id="7-contact">7. Contact</h2>
+<p>If you have any questions or concerns about this privacy policy or the app, feel free to contact us:<br>
+📧 <strong><a href="mailto:public.bike.app@gmail.com">public.bike.app@gmail.com</a></strong></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>App</title>
-      <link>https://publicbikeapp.github.io/de/app/</link>
+      <link>http://localhost:1313/de/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/de/app/</guid>
+      <guid>http://localhost:1313/de/app/</guid>
       <description>&lt;h2 id=&#34;navigation&#34;&gt;Navigation:&lt;/h2&gt;
 &lt;p&gt;Verfügbar sind:&lt;/p&gt;
 &lt;ul&gt;
@@ -27,7 +75,7 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/main.png&#34; alt=&#34;Startbildschirm&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/main.png&#34; alt=&#34;Startbildschirm&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -49,10 +97,10 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/settings.png&#34; alt=&#34;Einstellungen&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/changeCity.png&#34; alt=&#34;Stadt ändern&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/changeCity2.png&#34; alt=&#34;Stadt ändern 2&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/settings2.png&#34; alt=&#34;Einstellungen 2&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/settings.png&#34; alt=&#34;Einstellungen&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/changeCity.png&#34; alt=&#34;Stadt ändern&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/changeCity2.png&#34; alt=&#34;Stadt ändern 2&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/settings2.png&#34; alt=&#34;Einstellungen 2&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -259,9 +307,9 @@
     </item>
     <item>
       <title>App-Preise</title>
-      <link>https://publicbikeapp.github.io/de/pricing/</link>
+      <link>http://localhost:1313/de/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/de/pricing/</guid>
+      <guid>http://localhost:1313/de/pricing/</guid>
       <description>&lt;p&gt;Unsere App ermöglicht &lt;strong&gt;10 kostenlose Anfragen&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Danach können Sie einen unserer Abonnementpläne wählen. Bitte beachten Sie, dass es sich um &lt;strong&gt;einmalige Käufe&lt;/strong&gt; handelt. Nach Ablauf des Abonnements müssen Sie manuell einen neuen Plan erwerben, um die App weiterhin nutzen zu können. Es sind keine Kreditkartendaten für eine automatische Verlängerung erforderlich.&lt;/p&gt;
 &lt;table&gt;
@@ -325,9 +373,9 @@
     </item>
     <item>
       <title>Kontakt</title>
-      <link>https://publicbikeapp.github.io/de/contact/</link>
+      <link>http://localhost:1313/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/de/contact/</guid>
+      <guid>http://localhost:1313/de/contact/</guid>
       <description>&lt;p&gt;Bei Fragen oder Supportbedarf kontaktieren Sie uns unter:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;E-Mail:&lt;/strong&gt; &lt;a href=&#34;mailto:public.bike.app@gmail.com&#34;&gt;public.bike.app@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wir freuen uns auf Ihre Nachricht!&lt;/p&gt;</description>
@@ -338,9 +386,9 @@
     </item>
     <item>
       <title>Städte</title>
-      <link>https://publicbikeapp.github.io/de/cities/</link>
+      <link>http://localhost:1313/de/cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/de/cities/</guid>
+      <guid>http://localhost:1313/de/cities/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
