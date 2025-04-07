@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PublicBike</title>
-    <link>http://localhost:1313/de/</link>
+    <link>https://publicbikeapp.github.io/de/</link>
     <description>Recent content on PublicBike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://publicbikeapp.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/de/privacy/</link>
+      <link>https://publicbikeapp.github.io/de/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/privacy/</guid>
+      <guid>https://publicbikeapp.github.io/de/privacy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy-for-bikeapp&#34;&gt;Privacy Policy for BikeApp&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; April 6, 2025&lt;/p&gt;
 &lt;p&gt;BikeApp is a smartwatch application developed for &lt;strong&gt;Wear OS&lt;/strong&gt; and &lt;strong&gt;Garmin Connect IQ&lt;/strong&gt;. We are committed to protecting your privacy and ensuring a safe user experience.&lt;/p&gt;
@@ -57,9 +57,9 @@ The latest version will always be available at:<br>
     </item>
     <item>
       <title>App</title>
-      <link>http://localhost:1313/de/app/</link>
+      <link>https://publicbikeapp.github.io/de/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/app/</guid>
+      <guid>https://publicbikeapp.github.io/de/app/</guid>
       <description>&lt;h2 id=&#34;navigation&#34;&gt;Navigation:&lt;/h2&gt;
 &lt;p&gt;Verfügbar sind:&lt;/p&gt;
 &lt;ul&gt;
@@ -75,7 +75,7 @@ The latest version will always be available at:<br>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/main.png&#34; alt=&#34;Startbildschirm&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/main.png&#34; alt=&#34;Startbildschirm&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -97,10 +97,10 @@ The latest version will always be available at:<br>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/settings.png&#34; alt=&#34;Einstellungen&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/changeCity.png&#34; alt=&#34;Stadt ändern&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/changeCity2.png&#34; alt=&#34;Stadt ändern 2&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/images/settings2.png&#34; alt=&#34;Einstellungen 2&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/settings.png&#34; alt=&#34;Einstellungen&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/changeCity.png&#34; alt=&#34;Stadt ändern&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/changeCity2.png&#34; alt=&#34;Stadt ändern 2&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/images/settings2.png&#34; alt=&#34;Einstellungen 2&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -307,9 +307,9 @@ The latest version will always be available at:<br>
     </item>
     <item>
       <title>App-Preise</title>
-      <link>http://localhost:1313/de/pricing/</link>
+      <link>https://publicbikeapp.github.io/de/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/pricing/</guid>
+      <guid>https://publicbikeapp.github.io/de/pricing/</guid>
       <description>&lt;p&gt;Unsere App ermöglicht &lt;strong&gt;10 kostenlose Anfragen&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Danach können Sie einen unserer Abonnementpläne wählen. Bitte beachten Sie, dass es sich um &lt;strong&gt;einmalige Käufe&lt;/strong&gt; handelt. Nach Ablauf des Abonnements müssen Sie manuell einen neuen Plan erwerben, um die App weiterhin nutzen zu können. Es sind keine Kreditkartendaten für eine automatische Verlängerung erforderlich.&lt;/p&gt;
 &lt;table&gt;
@@ -373,9 +373,9 @@ The latest version will always be available at:<br>
     </item>
     <item>
       <title>Kontakt</title>
-      <link>http://localhost:1313/de/contact/</link>
+      <link>https://publicbikeapp.github.io/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/contact/</guid>
+      <guid>https://publicbikeapp.github.io/de/contact/</guid>
       <description>&lt;p&gt;Bei Fragen oder Supportbedarf kontaktieren Sie uns unter:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;E-Mail:&lt;/strong&gt; &lt;a href=&#34;mailto:public.bike.app@gmail.com&#34;&gt;public.bike.app@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wir freuen uns auf Ihre Nachricht!&lt;/p&gt;</description>
@@ -386,9 +386,9 @@ The latest version will always be available at:<br>
     </item>
     <item>
       <title>Städte</title>
-      <link>http://localhost:1313/de/cities/</link>
+      <link>https://publicbikeapp.github.io/de/cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/cities/</guid>
+      <guid>https://publicbikeapp.github.io/de/cities/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -1794,6 +1794,12 @@ The latest version will always be available at:<br>
       &lt;tr&gt;
           &lt;td&gt;DE&lt;/td&gt;
           &lt;td&gt;OLi-Bike&lt;/td&gt;
+          &lt;td&gt;Achim&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.oli-bike.de/de/oldenburg/&#34;&gt;https://www.oli-bike.de/de/oldenburg/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DE&lt;/td&gt;
+          &lt;td&gt;OLi-Bike&lt;/td&gt;
           &lt;td&gt;Oldenburg&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://www.oli-bike.de/de/oldenburg/&#34;&gt;https://www.oli-bike.de/de/oldenburg/&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -2024,12 +2030,6 @@ The latest version will always be available at:<br>
           &lt;td&gt;Veloleo&lt;/td&gt;
           &lt;td&gt;Braunschweig&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://www.nextbike.de/veloleo/de/&#34;&gt;https://www.nextbike.de/veloleo/de/&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;DE&lt;/td&gt;
-          &lt;td&gt;WK-Bike&lt;/td&gt;
-          &lt;td&gt;Achim&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.wk-bike.de/de/bremen/&#34;&gt;https://www.wk-bike.de/de/bremen/&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;DE&lt;/td&gt;
@@ -2987,9 +2987,27 @@ The latest version will always be available at:<br>
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;BIKER Białystok Poland&lt;/td&gt;
+          &lt;td&gt;Białystok&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://bikerbialystok.pl/&#34;&gt;https://bikerbialystok.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
           &lt;td&gt;Chełmski Rower&lt;/td&gt;
           &lt;td&gt;Chełm&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://chelmskirower.pl/&#34;&gt;https://chelmskirower.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;Częstochowski Rower Miejski Poland&lt;/td&gt;
+          &lt;td&gt;Częstochowa&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://rower.czestochowa.pl/&#34;&gt;https://rower.czestochowa.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;GRM Grodzisk Poland&lt;/td&gt;
+          &lt;td&gt;Grodzisk Mazowiecki&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.rowery.grodzisk.pl/&#34;&gt;https://www.rowery.grodzisk.pl/&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;PL&lt;/td&gt;
@@ -3197,6 +3215,12 @@ The latest version will always be available at:<br>
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;Rower Miejski w Ostrowie Wielkopolskim Poland&lt;/td&gt;
+          &lt;td&gt;Ostrów Wielkopolski&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://ostrowskirowermiejski.pl&#34;&gt;https://ostrowskirowermiejski.pl&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
           &lt;td&gt;Rowerowe Łódzkie&lt;/td&gt;
           &lt;td&gt;Koluszki (RL)&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://www.rowerowelodzkie.pl/&#34;&gt;https://www.rowerowelodzkie.pl/&lt;/a&gt;&lt;/td&gt;
@@ -3263,15 +3287,39 @@ The latest version will always be available at:<br>
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;Tychowski Rower Miejski Poland&lt;/td&gt;
+          &lt;td&gt;Tychowo&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.tychowskirower.pl/&#34;&gt;https://www.tychowskirower.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
           &lt;td&gt;VETURILO 3.0&lt;/td&gt;
           &lt;td&gt;Warszawa&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://www.veturilo.waw.pl/&#34;&gt;https://www.veturilo.waw.pl/&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;WRM nextbike Poland&lt;/td&gt;
+          &lt;td&gt;Wrocław&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.wroclawskirower.pl/&#34;&gt;https://www.wroclawskirower.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
           &lt;td&gt;Wolsztyński Rower Miejski&lt;/td&gt;
           &lt;td&gt;Wolsztyn&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://www.rower.wolsztyn.pl/&#34;&gt;https://www.rower.wolsztyn.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;Żyrardowski Rower Miejski Poland&lt;/td&gt;
+          &lt;td&gt;Żyrardów&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://zyrardowskirower.pl/&#34;&gt;https://zyrardowskirower.pl/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PL&lt;/td&gt;
+          &lt;td&gt;Łódzki Rower Publiczny&lt;/td&gt;
+          &lt;td&gt;Łódź - Łódzki Rower Publiczny&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.lodzkirowerpubliczny.pl/&#34;&gt;https://www.lodzkirowerpubliczny.pl/&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;PT&lt;/td&gt;
@@ -4872,6 +4920,12 @@ The latest version will always be available at:<br>
       <tr>
           <td>DE</td>
           <td>OLi-Bike</td>
+          <td>Achim</td>
+          <td><a href="https://www.oli-bike.de/de/oldenburg/">https://www.oli-bike.de/de/oldenburg/</a></td>
+      </tr>
+      <tr>
+          <td>DE</td>
+          <td>OLi-Bike</td>
           <td>Oldenburg</td>
           <td><a href="https://www.oli-bike.de/de/oldenburg/">https://www.oli-bike.de/de/oldenburg/</a></td>
       </tr>
@@ -5102,12 +5156,6 @@ The latest version will always be available at:<br>
           <td>Veloleo</td>
           <td>Braunschweig</td>
           <td><a href="https://www.nextbike.de/veloleo/de/">https://www.nextbike.de/veloleo/de/</a></td>
-      </tr>
-      <tr>
-          <td>DE</td>
-          <td>WK-Bike</td>
-          <td>Achim</td>
-          <td><a href="https://www.wk-bike.de/de/bremen/">https://www.wk-bike.de/de/bremen/</a></td>
       </tr>
       <tr>
           <td>DE</td>
@@ -6065,9 +6113,27 @@ The latest version will always be available at:<br>
       </tr>
       <tr>
           <td>PL</td>
+          <td>BIKER Białystok Poland</td>
+          <td>Białystok</td>
+          <td><a href="https://bikerbialystok.pl/">https://bikerbialystok.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
           <td>Chełmski Rower</td>
           <td>Chełm</td>
           <td><a href="https://chelmskirower.pl/">https://chelmskirower.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
+          <td>Częstochowski Rower Miejski Poland</td>
+          <td>Częstochowa</td>
+          <td><a href="https://rower.czestochowa.pl/">https://rower.czestochowa.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
+          <td>GRM Grodzisk Poland</td>
+          <td>Grodzisk Mazowiecki</td>
+          <td><a href="https://www.rowery.grodzisk.pl/">https://www.rowery.grodzisk.pl/</a></td>
       </tr>
       <tr>
           <td>PL</td>
@@ -6275,6 +6341,12 @@ The latest version will always be available at:<br>
       </tr>
       <tr>
           <td>PL</td>
+          <td>Rower Miejski w Ostrowie Wielkopolskim Poland</td>
+          <td>Ostrów Wielkopolski</td>
+          <td><a href="https://ostrowskirowermiejski.pl">https://ostrowskirowermiejski.pl</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
           <td>Rowerowe Łódzkie</td>
           <td>Koluszki (RL)</td>
           <td><a href="https://www.rowerowelodzkie.pl/">https://www.rowerowelodzkie.pl/</a></td>
@@ -6341,15 +6413,39 @@ The latest version will always be available at:<br>
       </tr>
       <tr>
           <td>PL</td>
+          <td>Tychowski Rower Miejski Poland</td>
+          <td>Tychowo</td>
+          <td><a href="https://www.tychowskirower.pl/">https://www.tychowskirower.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
           <td>VETURILO 3.0</td>
           <td>Warszawa</td>
           <td><a href="https://www.veturilo.waw.pl/">https://www.veturilo.waw.pl/</a></td>
       </tr>
       <tr>
           <td>PL</td>
+          <td>WRM nextbike Poland</td>
+          <td>Wrocław</td>
+          <td><a href="https://www.wroclawskirower.pl/">https://www.wroclawskirower.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
           <td>Wolsztyński Rower Miejski</td>
           <td>Wolsztyn</td>
           <td><a href="https://www.rower.wolsztyn.pl/">https://www.rower.wolsztyn.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
+          <td>Żyrardowski Rower Miejski Poland</td>
+          <td>Żyrardów</td>
+          <td><a href="https://zyrardowskirower.pl/">https://zyrardowskirower.pl/</a></td>
+      </tr>
+      <tr>
+          <td>PL</td>
+          <td>Łódzki Rower Publiczny</td>
+          <td>Łódź - Łódzki Rower Publiczny</td>
+          <td><a href="https://www.lodzkirowerpubliczny.pl/">https://www.lodzkirowerpubliczny.pl/</a></td>
       </tr>
       <tr>
           <td>PT</td>
